@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HPietrus
-- 👀 I’m interested in web Dev
+- 👀 I’m interested in web Dev and Robotics env
 - 🌱 I’m currently learning full stack
 
 <!---
